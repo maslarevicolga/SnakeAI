@@ -1,0 +1,610 @@
+---------- GEN 0 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       3 |   0 | body
+  5 |       3 |   0 | body
+  6 |       3 |   0 | body
+  7 |       3 |   0 | body
+  8 |       3 |   0 | body
+  9 |       3 |   0 | body
+ 10 |       3 |   0 | body
+ 11 |       3 |   0 | body
+ 12 |       3 |   0 | body
+ 13 |       3 |   0 | body
+ 14 |       3 |   0 | body
+ 15 |       3 |   0 | body
+ 16 |       3 |   0 | body
+ 17 |       3 |   0 | body
+ 18 |       3 |   0 | body
+ 19 |       3 |   0 | body
+ 20 |       3 |   0 | body
+ 21 |       3 |   0 | body
+ 22 |       3 |   0 | body
+ 23 |       3 |   0 | body
+ 24 |       3 |   0 | body
+ 25 |       3 |   0 | body
+ 26 |       3 |   0 | body
+ 27 |       3 |   0 | body
+ 28 |       3 |   0 | body
+ 29 |       3 |   0 | body
+ 30 |       3 |   0 | body
+ 31 |       3 |   0 | body
+ 32 |       3 |   0 | body
+ 33 |       3 |   0 | body
+ 34 |       3 |   0 | body
+ 35 |       3 |   0 | body
+ 36 |       3 |   0 | body
+ 37 |       3 |   0 | body
+ 38 |       3 |   0 | body
+ 39 |       3 |   0 | body
+ 40 |       3 |   0 | body
+ 41 |       3 |   0 | body
+ 42 |       3 |   0 | body
+ 43 |       3 |   0 | body
+ 44 |       3 |   0 | body
+ 45 |       3 |   0 | body
+ 46 |       3 |   0 | body
+ 47 |       3 |   0 | body
+ 48 |       3 |   0 | body
+ 49 |       3 |   0 | body
+ 50 |       3 |   0 | body
+ 51 |       3 |   0 | body
+ 52 |       3 |   0 | body
+ 53 |       3 |   0 | body
+ 54 |       3 |   0 | body
+ 55 |       3 |   0 | body
+ 56 |       3 |   0 | body
+ 57 |       3 |   0 | body
+ 58 |       3 |   0 | body
+ 59 |       3 |   0 | body
+ 60 |       3 |   0 | body
+ 61 |       4 |   0 | body
+ 62 |       4 |   0 | body
+ 63 |       4 |   0 | body
+ 64 |       4 |   0 | body
+ 65 |       4 |   0 | body
+ 66 |       4 |   0 | body
+ 67 |       4 |   0 | body
+ 68 |       4 |   0 | body
+ 69 |       4 |   0 | body
+ 70 |       4 |   0 | body
+ 71 |       4 |   0 | body
+ 72 |       4 |   0 | body
+ 73 |       4 |   0 | body
+ 74 |       4 |   0 | body
+ 75 |       4 |   0 | body
+ 76 |       4 |   0 | body
+ 77 |       4 |   0 | body
+ 78 |       4 |   0 | body
+ 79 |       4 |   0 | body
+ 80 |       4 |   0 | body
+ 81 |       4 |   0 | body
+ 82 |       4 |   0 | body
+ 83 |       4 |   0 | body
+ 84 |       4 |   0 | body
+ 85 |       4 |   0 | body
+ 86 |       5 |   0 | body
+ 87 |       5 |   0 | body
+ 88 |       5 |   0 | body
+ 89 |       6 |   0 | body
+ 90 |       6 |   0 | body
+ 91 |       6 |   0 | body
+ 92 |       6 |   0 | body
+ 93 |       6 |   0 | body
+ 94 |      10 |   0 | wall
+ 95 |      10 |   0 | wall
+ 96 |      11 |   0 | wall
+ 97 |      11 |   0 | wall
+ 98 |      11 |   0 | wall
+ 99 |      11 |   0 | wall
+100 |      11 |   0 | wall
+101 |      11 |   0 | wall
+102 |      12 |   0 | wall
+103 |      12 |   0 | body
+104 |      13 |   0 | body
+105 |      14 |   0 | wall
+106 |      15 |   0 | body
+107 |      15 |   0 | body
+108 |      15 |   0 | body
+109 |      16 |   0 | wall
+110 |      16 |   0 | wall
+111 |      16 |   0 | wall
+112 |      16 |   0 | wall
+113 |      16 |   0 | wall
+114 |      16 |   0 | wall
+115 |      16 |   0 | wall
+116 |      16 |   0 | wall
+117 |      16 |   0 | wall
+118 |      16 |   0 | wall
+119 |      16 |   0 | wall
+120 |      16 |   0 | wall
+121 |      16 |   0 | wall
+122 |      16 |   0 | wall
+123 |      16 |   0 | wall
+124 |      16 |   0 | wall
+125 |      16 |   0 | wall
+126 |      16 |   0 | wall
+127 |      16 |   0 | wall
+128 |      16 |   0 | wall
+129 |      16 |   0 | wall
+130 |      16 |   0 | wall
+131 |      16 |   0 | wall
+132 |      16 |   0 | wall
+133 |      16 |   0 | wall
+134 |      16 |   0 | wall
+135 |      16 |   0 | wall
+136 |      16 |   0 | body
+137 |      17 |   0 | body
+138 |      17 |   0 | wall
+139 |      17 |   0 | wall
+140 |      17 |   0 | wall
+141 |      17 |   0 | wall
+142 |      17 |   0 | wall
+143 |      17 |   0 | wall
+144 |      17 |   0 | wall
+145 |      17 |   0 | wall
+146 |      17 |   0 | wall
+147 |      17 |   0 | wall
+148 |      17 |   0 | wall
+149 |      17 |   0 | wall
+150 |      17 |   0 | wall
+151 |      17 |   0 | wall
+152 |      17 |   0 | wall
+153 |      17 |   0 | wall
+154 |      18 |   0 | body
+155 |      18 |   0 | wall
+156 |      18 |   0 | wall
+157 |      18 |   0 | body
+158 |      18 |   0 | wall
+159 |      18 |   0 | wall
+160 |      18 |   0 | wall
+161 |      18 |   0 | wall
+162 |      18 |   0 | body
+163 |      18 |   0 | body
+164 |      18 |   0 | body
+165 |      18 |   0 | body
+166 |      19 |   0 | wall
+167 |      20 |   0 | wall
+168 |      20 |   0 | body
+169 |      21 |   0 | wall
+170 |      21 |   0 | wall
+171 |      21 |   0 | body
+172 |      21 |   0 | body
+173 |      21 |   0 | body
+174 |      21 |   0 | wall
+175 |      21 |   0 | body
+176 |      21 |   0 | wall
+177 |      21 |   0 | wall
+178 |      21 |   0 | wall
+179 |      21 |   0 | body
+180 |      22 |   0 | body
+181 |      22 |   0 | body
+182 |      23 |   0 | wall
+183 |      25 |   0 | wall
+184 |      26 |   0 | wall
+185 |      26 |   0 | wall
+186 |      26 |   0 | wall
+187 |      27 |   0 | wall
+188 |      27 |   0 | wall
+189 |      28 |   0 | wall
+190 |      32 |   0 | body
+191 |      32 |   0 | wall
+192 |      32 |   0 | wall
+193 |      53 |   2 | body
+194 |      37 |   0 | body
+195 |      43 |   0 | wall
+196 |      45 |   0 | wall
+197 |      46 |   0 | body
+198 |      50 |   0 | body
+199 |      57 |   0 | wall
+Best snake fitness: 57
+
+time_died: 8.110022068023682---------- GEN 1 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       3 |   0 | body
+  5 |       3 |   0 | body
+  6 |       3 |   0 | body
+  7 |       3 |   0 | body
+  8 |       3 |   0 | body
+  9 |       3 |   0 | body
+ 10 |       3 |   0 | body
+ 11 |       3 |   0 | body
+ 12 |       3 |   0 | body
+ 13 |       3 |   0 | body
+ 14 |       3 |   0 | body
+ 15 |       3 |   0 | body
+ 16 |       3 |   0 | body
+ 17 |       3 |   0 | body
+ 18 |       3 |   0 | body
+ 19 |       3 |   0 | body
+ 20 |       3 |   0 | body
+ 21 |       3 |   0 | body
+ 22 |       3 |   0 | body
+ 23 |       3 |   0 | body
+ 24 |       3 |   0 | body
+ 25 |       3 |   0 | body
+ 26 |       3 |   0 | body
+ 27 |       3 |   0 | body
+ 28 |       3 |   0 | body
+ 29 |       3 |   0 | body
+ 30 |       3 |   0 | body
+ 31 |       3 |   0 | body
+ 32 |       3 |   0 | body
+ 33 |       3 |   0 | body
+ 34 |       3 |   0 | body
+ 35 |       3 |   0 | body
+ 36 |       3 |   0 | body
+ 37 |       3 |   0 | body
+ 38 |       3 |   0 | body
+ 39 |       3 |   0 | body
+ 40 |       3 |   0 | body
+ 41 |       3 |   0 | body
+ 42 |       3 |   0 | body
+ 43 |       3 |   0 | body
+ 44 |       3 |   0 | body
+ 45 |       3 |   0 | body
+ 46 |       3 |   0 | body
+ 47 |       3 |   0 | body
+ 48 |       3 |   0 | body
+ 49 |       3 |   0 | body
+ 50 |       3 |   0 | body
+ 51 |       3 |   0 | body
+ 52 |       4 |   0 | body
+ 53 |       4 |   0 | body
+ 54 |       4 |   0 | body
+ 55 |       4 |   0 | body
+ 56 |       4 |   0 | body
+ 57 |       4 |   0 | body
+ 58 |       4 |   0 | body
+ 59 |       4 |   0 | body
+ 60 |       4 |   0 | body
+ 61 |       4 |   0 | body
+ 62 |       4 |   0 | body
+ 63 |       4 |   0 | body
+ 64 |       4 |   0 | body
+ 65 |       4 |   0 | body
+ 66 |       4 |   0 | body
+ 67 |       4 |   0 | body
+ 68 |       5 |   0 | body
+ 69 |       5 |   0 | body
+ 70 |       5 |   0 | body
+ 71 |       5 |   0 | body
+ 72 |       5 |   0 | body
+ 73 |       6 |   0 | body
+ 74 |       6 |   0 | body
+ 75 |       6 |   0 | body
+ 76 |       6 |   0 | body
+ 77 |       6 |   0 | body
+ 78 |      10 |   0 | wall
+ 79 |      10 |   0 | wall
+ 80 |      10 |   0 | wall
+ 81 |      10 |   0 | wall
+ 82 |      10 |   0 | wall
+ 83 |      10 |   0 | wall
+ 84 |      11 |   0 | body
+ 85 |      11 |   0 | wall
+ 86 |      11 |   0 | wall
+ 87 |      11 |   0 | body
+ 88 |      11 |   0 | wall
+ 89 |      12 |   0 | body
+ 90 |      12 |   0 | body
+ 91 |      12 |   0 | body
+ 92 |      12 |   0 | body
+ 93 |      13 |   0 | body
+ 94 |      14 |   0 | body
+ 95 |      15 |   0 | body
+ 96 |      15 |   0 | body
+ 97 |      16 |   0 | wall
+ 98 |      16 |   0 | wall
+ 99 |      16 |   0 | wall
+100 |      16 |   0 | wall
+101 |      16 |   0 | wall
+102 |      16 |   0 | wall
+103 |      16 |   0 | wall
+104 |      16 |   0 | wall
+105 |      16 |   0 | wall
+106 |      16 |   0 | wall
+107 |      16 |   0 | wall
+108 |      16 |   0 | wall
+109 |      16 |   0 | wall
+110 |      16 |   0 | wall
+111 |      16 |   0 | wall
+112 |      16 |   0 | wall
+113 |      16 |   0 | wall
+114 |      16 |   0 | wall
+115 |      16 |   0 | wall
+116 |      16 |   0 | wall
+117 |      16 |   0 | wall
+118 |      16 |   0 | wall
+119 |      16 |   0 | wall
+120 |      16 |   0 | wall
+121 |      16 |   0 | wall
+122 |      16 |   0 | wall
+123 |      16 |   0 | wall
+124 |      16 |   0 | wall
+125 |      16 |   0 | wall
+126 |      16 |   0 | wall
+127 |      16 |   0 | wall
+128 |      16 |   0 | wall
+129 |      16 |   0 | wall
+130 |      16 |   0 | wall
+131 |      16 |   0 | wall
+132 |      16 |   0 | wall
+133 |      17 |   0 | wall
+134 |      17 |   0 | wall
+135 |      17 |   0 | wall
+136 |      17 |   0 | wall
+137 |      17 |   0 | wall
+138 |      17 |   0 | wall
+139 |      17 |   0 | wall
+140 |      17 |   0 | wall
+141 |      17 |   0 | wall
+142 |      17 |   0 | wall
+143 |      17 |   0 | wall
+144 |      17 |   0 | wall
+145 |      17 |   0 | wall
+146 |      18 |   0 | body
+147 |      18 |   0 | wall
+148 |      18 |   0 | wall
+149 |      18 |   0 | wall
+150 |      18 |   0 | body
+151 |      18 |   0 | body
+152 |      18 |   0 | body
+153 |      18 |   0 | wall
+154 |      18 |   0 | wall
+155 |      18 |   0 | wall
+156 |      18 |   0 | wall
+157 |      18 |   0 | wall
+158 |      18 |   0 | body
+159 |      19 |   0 | wall
+160 |      19 |   0 | wall
+161 |      19 |   0 | wall
+162 |      19 |   0 | wall
+163 |      19 |   0 | wall
+164 |      19 |   0 | wall
+165 |      19 |   0 | wall
+166 |      29 |   1 | wall
+167 |      19 |   0 | wall
+168 |      20 |   0 | wall
+169 |      30 |   1 | wall
+170 |      20 |   0 | body
+171 |      20 |   0 | wall
+172 |      20 |   0 | wall
+173 |      20 |   0 | wall
+174 |      21 |   0 | body
+175 |      24 |   0 | body
+176 |      25 |   0 | wall
+177 |      25 |   0 | wall
+178 |      35 |   1 | body
+179 |      25 |   0 | wall
+180 |      36 |   1 | wall
+181 |      27 |   0 | wall
+182 |      29 |   0 | wall
+183 |      34 |   0 | wall
+184 |      34 |   0 | wall
+185 |      34 |   0 | wall
+186 |      55 |   2 | wall
+187 |      35 |   0 | wall
+188 |      36 |   0 | body
+189 |      36 |   0 | wall
+190 |      36 |   0 | wall
+191 |      36 |   0 | wall
+192 |      38 |   0 | wall
+193 |      49 |   1 | wall
+194 |      42 |   0 | wall
+195 |      43 |   0 | wall
+196 |      48 |   0 | wall
+197 |      61 |   0 | wall
+198 |     106 |   0 | wall
+199 |     419 |   0 | timeout
+Best snake fitness: 419
+
+time_died: 10.50800347328186---------- GEN 2 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       3 |   0 | body
+  5 |       3 |   0 | body
+  6 |       3 |   0 | body
+  7 |       3 |   0 | body
+  8 |       3 |   0 | body
+  9 |       3 |   0 | body
+ 10 |       3 |   0 | body
+ 11 |       3 |   0 | body
+ 12 |       3 |   0 | body
+ 13 |       3 |   0 | body
+ 14 |       3 |   0 | body
+ 15 |       3 |   0 | body
+ 16 |       3 |   0 | body
+ 17 |       3 |   0 | body
+ 18 |       3 |   0 | body
+ 19 |       3 |   0 | body
+ 20 |       3 |   0 | body
+ 21 |       3 |   0 | body
+ 22 |       3 |   0 | body
+ 23 |       3 |   0 | body
+ 24 |       3 |   0 | body
+ 25 |       3 |   0 | body
+ 26 |       3 |   0 | body
+ 27 |       3 |   0 | body
+ 28 |       3 |   0 | body
+ 29 |       3 |   0 | body
+ 30 |       3 |   0 | body
+ 31 |       3 |   0 | body
+ 32 |       3 |   0 | body
+ 33 |       3 |   0 | body
+ 34 |       3 |   0 | body
+ 35 |       3 |   0 | body
+ 36 |       3 |   0 | body
+ 37 |       3 |   0 | body
+ 38 |       3 |   0 | body
+ 39 |       3 |   0 | body
+ 40 |       3 |   0 | body
+ 41 |       3 |   0 | body
+ 42 |       3 |   0 | body
+ 43 |       3 |   0 | body
+ 44 |       4 |   0 | body
+ 45 |       4 |   0 | body
+ 46 |       4 |   0 | body
+ 47 |       4 |   0 | body
+ 48 |       4 |   0 | body
+ 49 |       4 |   0 | body
+ 50 |       4 |   0 | body
+ 51 |       4 |   0 | body
+ 52 |       4 |   0 | body
+ 53 |       4 |   0 | body
+ 54 |       4 |   0 | body
+ 55 |       4 |   0 | body
+ 56 |       4 |   0 | body
+ 57 |       4 |   0 | body
+ 58 |       4 |   0 | body
+ 59 |      15 |   1 | body
+ 60 |      15 |   1 | body
+ 61 |       5 |   0 | body
+ 62 |       6 |   0 | body
+ 63 |       6 |   0 | body
+ 64 |       6 |   0 | body
+ 65 |       6 |   0 | body
+ 66 |       6 |   0 | body
+ 67 |       7 |   0 | body
+ 68 |      10 |   0 | wall
+ 69 |      10 |   0 | wall
+ 70 |      10 |   0 | wall
+ 71 |      10 |   0 | wall
+ 72 |      10 |   0 | wall
+ 73 |      10 |   0 | wall
+ 74 |      10 |   0 | wall
+ 75 |      10 |   0 | wall
+ 76 |      10 |   0 | wall
+ 77 |      10 |   0 | wall
+ 78 |      10 |   0 | wall
+ 79 |      10 |   0 | wall
+ 80 |      10 |   0 | wall
+ 81 |      10 |   0 | wall
+ 82 |      11 |   0 | wall
+ 83 |      11 |   0 | wall
+ 84 |      11 |   0 | wall
+ 85 |      11 |   0 | wall
+ 86 |      22 |   1 | wall
+ 87 |      12 |   0 | body
+ 88 |      12 |   0 | body
+ 89 |      23 |   1 | wall
+ 90 |      13 |   0 | wall
+ 91 |      24 |   1 | body
+ 92 |      24 |   1 | body
+ 93 |      25 |   1 | body
+ 94 |      26 |   1 | wall
+ 95 |      26 |   1 | wall
+ 96 |      26 |   1 | wall
+ 97 |      26 |   1 | wall
+ 98 |      26 |   1 | wall
+ 99 |      26 |   1 | wall
+100 |      26 |   1 | wall
+101 |      26 |   1 | wall
+102 |      26 |   1 | wall
+103 |      26 |   1 | wall
+104 |      26 |   1 | wall
+105 |      26 |   1 | wall
+106 |      26 |   1 | wall
+107 |      26 |   1 | wall
+108 |      26 |   1 | wall
+109 |      26 |   1 | wall
+110 |      26 |   1 | wall
+111 |      26 |   1 | wall
+112 |      26 |   1 | wall
+113 |      26 |   1 | wall
+114 |      26 |   1 | wall
+115 |      26 |   1 | wall
+116 |      26 |   1 | wall
+117 |      26 |   1 | wall
+118 |      26 |   1 | wall
+119 |      26 |   1 | wall
+120 |      26 |   1 | wall
+121 |      26 |   1 | wall
+122 |      26 |   1 | wall
+123 |      26 |   1 | wall
+124 |      26 |   1 | wall
+125 |      26 |   1 | wall
+126 |      26 |   1 | wall
+127 |      26 |   1 | wall
+128 |      27 |   1 | wall
+129 |      27 |   1 | wall
+130 |      27 |   1 | wall
+131 |      27 |   1 | wall
+132 |      27 |   1 | wall
+133 |      27 |   1 | wall
+134 |      27 |   1 | wall
+135 |      27 |   1 | wall
+136 |      27 |   1 | wall
+137 |      27 |   1 | wall
+138 |      27 |   1 | wall
+139 |      27 |   1 | wall
+140 |      27 |   1 | wall
+141 |      27 |   1 | wall
+142 |      28 |   1 | wall
+143 |      18 |   0 | wall
+144 |      18 |   0 | wall
+145 |      18 |   0 | wall
+146 |      18 |   0 | wall
+147 |      18 |   0 | wall
+148 |      18 |   0 | wall
+149 |      18 |   0 | wall
+150 |      18 |   0 | wall
+151 |      18 |   0 | body
+152 |      18 |   0 | wall
+153 |      18 |   0 | body
+154 |      19 |   0 | wall
+155 |      29 |   1 | wall
+156 |      19 |   0 | wall
+157 |      29 |   1 | wall
+158 |      19 |   0 | body
+159 |      19 |   0 | body
+160 |      29 |   1 | body
+161 |      19 |   0 | wall
+162 |      20 |   0 | wall
+163 |      20 |   0 | body
+164 |      20 |   0 | wall
+165 |      20 |   0 | wall
+166 |      21 |   0 | wall
+167 |      21 |   0 | wall
+168 |      21 |   0 | wall
+169 |      31 |   1 | wall
+170 |      32 |   1 | wall
+171 |      32 |   1 | wall
+172 |      32 |   1 | body
+173 |      43 |   2 | body
+174 |      44 |   2 | body
+175 |      36 |   1 | wall
+176 |      26 |   0 | wall
+177 |      47 |   2 | body
+178 |      39 |   1 | wall
+179 |      41 |   1 | wall
+180 |      32 |   0 | wall
+181 |      52 |   2 | wall
+182 |      33 |   0 | body
+183 |      35 |   0 | wall
+184 |      50 |   1 | wall
+185 |      40 |   0 | body
+186 |      51 |   1 | body
+187 |      52 |   1 | wall
+188 |      67 |   2 | wall
+189 |      58 |   1 | wall
+190 |      58 |   1 | wall
+191 |      59 |   1 | wall
+192 |      59 |   1 | wall
+193 |      66 |   1 | wall
+194 |      66 |   1 | wall
+195 |      68 |   1 | timeout
+196 |     116 |   1 | wall
+197 |     157 |   2 | wall
+198 |     191 |   0 | wall
+199 |     474 |   1 | timeout
+Best snake fitness: 474
+
+time_died: 12.418989896774292

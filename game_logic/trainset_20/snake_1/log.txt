@@ -1,0 +1,1726 @@
+---------- GEN 0 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       3 |   0 | body
+  5 |       3 |   0 | body
+  6 |       4 |   0 | body
+  7 |      10 |   0 | body
+  8 |      16 |   0 | wall
+  9 |      16 |   0 | wall
+ 10 |      16 |   0 | wall
+ 11 |      17 |   0 | wall
+ 12 |      18 |   0 | body
+ 13 |      19 |   0 | wall
+ 14 |      20 |   0 | wall
+ 15 |      27 |   0 | body
+ 16 |      34 |   0 | wall
+ 17 |      58 |   1 | body
+ 18 |      52 |   0 | wall
+ 19 |     103 |   0 | timeout
+Best snake fitness: 103
+
+time_died: 1.4029839038848877---------- GEN 1 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      18 |   0 | body
+  7 |      18 |   0 | wall
+  8 |      19 |   0 | wall
+  9 |      19 |   0 | wall
+ 10 |      19 |   0 | body
+ 11 |      20 |   0 | wall
+ 12 |      24 |   0 | body
+ 13 |      27 |   0 | body
+ 14 |      29 |   0 | body
+ 15 |      34 |   0 | wall
+ 16 |      35 |   0 | body
+ 17 |      44 |   0 | wall
+ 18 |      59 |   1 | body
+ 19 |     103 |   0 | timeout
+Best snake fitness: 103
+
+time_died: 1.6619255542755127---------- GEN 2 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       4 |   0 | body
+  5 |       8 |   0 | body
+  6 |       8 |   0 | body
+  7 |      11 |   0 | body
+  8 |      16 |   0 | body
+  9 |      16 |   0 | wall
+ 10 |      16 |   0 | wall
+ 11 |      17 |   0 | wall
+ 12 |      18 |   0 | wall
+ 13 |      20 |   0 | body
+ 14 |      21 |   0 | body
+ 15 |      27 |   0 | body
+ 16 |      34 |   0 | body
+ 17 |      35 |   0 | wall
+ 18 |      52 |   1 | body
+ 19 |      48 |   0 | wall
+Best snake fitness: 52
+
+time_died: 1.176023006439209---------- GEN 3 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       6 |   0 | body
+  5 |      10 |   0 | wall
+  6 |      11 |   0 | wall
+  7 |      16 |   0 | wall
+  8 |      16 |   0 | wall
+  9 |      17 |   0 | wall
+ 10 |      17 |   0 | wall
+ 11 |      19 |   0 | wall
+ 12 |      20 |   0 | body
+ 13 |      21 |   0 | body
+ 14 |      25 |   0 | wall
+ 15 |      27 |   0 | body
+ 16 |      34 |   0 | wall
+ 17 |      35 |   0 | body
+ 18 |      54 |   1 | body
+ 19 |      48 |   0 | wall
+Best snake fitness: 54
+
+time_died: 1.2349989414215088---------- GEN 4 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       4 |   0 | body
+  4 |      10 |   0 | wall
+  5 |      11 |   0 | wall
+  6 |      13 |   0 | body
+  7 |      16 |   0 | wall
+  8 |      16 |   0 | wall
+  9 |      16 |   0 | wall
+ 10 |      17 |   0 | wall
+ 11 |      18 |   0 | body
+ 12 |      19 |   0 | wall
+ 13 |      20 |   0 | body
+ 14 |      23 |   0 | wall
+ 15 |      27 |   0 | body
+ 16 |      34 |   0 | body
+ 17 |      35 |   0 | wall
+ 18 |      48 |   0 | wall
+ 19 |      57 |   0 | wall
+Best snake fitness: 57
+
+time_died: 1.2679245471954346---------- GEN 5 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       4 |   0 | body
+  3 |      10 |   0 | wall
+  4 |      11 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      16 |   0 | wall
+  8 |      16 |   0 | wall
+  9 |      17 |   0 | wall
+ 10 |      17 |   0 | wall
+ 11 |      18 |   0 | wall
+ 12 |      18 |   0 | wall
+ 13 |      21 |   0 | wall
+ 14 |      26 |   0 | wall
+ 15 |      27 |   0 | body
+ 16 |      28 |   0 | wall
+ 17 |      34 |   0 | wall
+ 18 |      35 |   0 | body
+ 19 |     103 |   0 | timeout
+Best snake fitness: 103
+
+time_died: 1.4999992847442627---------- GEN 6 ----------
+  0 |       3 |   0 | body
+  1 |       4 |   0 | body
+  2 |       6 |   0 | body
+  3 |       7 |   0 | body
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      17 |   0 | wall
+  8 |      18 |   0 | wall
+  9 |      18 |   0 | wall
+ 10 |      20 |   0 | wall
+ 11 |      26 |   0 | wall
+ 12 |      26 |   0 | wall
+ 13 |      26 |   0 | wall
+ 14 |      27 |   0 | body
+ 15 |      34 |   0 | body
+ 16 |      35 |   0 | wall
+ 17 |      39 |   0 | body
+ 18 |      57 |   0 | wall
+ 19 |     103 |   0 | timeout
+Best snake fitness: 103
+
+time_died: 1.7099368572235107---------- GEN 7 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       4 |   0 | body
+  5 |      16 |   0 | wall
+  6 |      18 |   0 | wall
+  7 |      18 |   0 | body
+  8 |      18 |   0 | wall
+  9 |      21 |   0 | wall
+ 10 |      25 |   0 | wall
+ 11 |      26 |   0 | wall
+ 12 |      26 |   0 | wall
+ 13 |      27 |   0 | body
+ 14 |      28 |   0 | body
+ 15 |      28 |   0 | wall
+ 16 |      34 |   0 | wall
+ 17 |      35 |   0 | body
+ 18 |      39 |   0 | body
+ 19 |     103 |   0 | timeout
+Best snake fitness: 103
+
+time_died: 1.597991943359375---------- GEN 8 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       3 |   0 | body
+  5 |       3 |   0 | body
+  6 |       4 |   0 | body
+  7 |       6 |   0 | body
+  8 |       6 |   0 | body
+  9 |      16 |   0 | wall
+ 10 |      16 |   0 | wall
+ 11 |      16 |   0 | wall
+ 12 |      17 |   0 | wall
+ 13 |      18 |   0 | body
+ 14 |      26 |   0 | wall
+ 15 |      26 |   0 | wall
+ 16 |      27 |   0 | wall
+ 17 |      28 |   0 | body
+ 18 |      44 |   0 | body
+ 19 |      74 |   0 | wall
+Best snake fitness: 74
+
+time_died: 1.137775182723999---------- GEN 9 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       3 |   0 | body
+  5 |       4 |   0 | body
+  6 |       4 |   0 | body
+  7 |       5 |   0 | body
+  8 |      16 |   0 | wall
+  9 |      17 |   0 | wall
+ 10 |      18 |   0 | body
+ 11 |      19 |   0 | wall
+ 12 |      21 |   0 | wall
+ 13 |      22 |   0 | wall
+ 14 |      26 |   0 | wall
+ 15 |      27 |   0 | wall
+ 16 |      28 |   0 | body
+ 17 |      28 |   0 | wall
+ 18 |      36 |   0 | wall
+ 19 |     127 |   0 | body
+Best snake fitness: 127
+
+time_died: 1.4221296310424805---------- GEN 10 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       4 |   0 | body
+  5 |       4 |   0 | body
+  6 |       5 |   0 | body
+  7 |      16 |   0 | wall
+  8 |      16 |   0 | wall
+  9 |      18 |   0 | wall
+ 10 |      21 |   0 | wall
+ 11 |      22 |   0 | wall
+ 12 |      25 |   0 | wall
+ 13 |      26 |   0 | wall
+ 14 |      27 |   0 | wall
+ 15 |      28 |   0 | wall
+ 16 |      34 |   0 | body
+ 17 |      34 |   0 | wall
+ 18 |      44 |   0 | wall
+ 19 |      58 |   0 | wall
+Best snake fitness: 58
+
+time_died: 1.3337905406951904---------- GEN 11 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       3 |   0 | body
+  5 |       4 |   0 | body
+  6 |      11 |   0 | wall
+  7 |      12 |   0 | body
+  8 |      16 |   0 | wall
+  9 |      16 |   0 | wall
+ 10 |      18 |   0 | wall
+ 11 |      18 |   0 | wall
+ 12 |      18 |   0 | wall
+ 13 |      19 |   0 | wall
+ 14 |      21 |   0 | wall
+ 15 |      23 |   0 | body
+ 16 |      26 |   0 | wall
+ 17 |      27 |   0 | wall
+ 18 |      28 |   0 | body
+ 19 |      64 |   0 | wall
+Best snake fitness: 64
+
+time_died: 1.1107189655303955---------- GEN 12 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       3 |   0 | body
+  5 |       3 |   0 | body
+  6 |       4 |   0 | body
+  7 |       4 |   0 | body
+  8 |      13 |   0 | body
+  9 |      16 |   0 | wall
+ 10 |      16 |   0 | wall
+ 11 |      17 |   0 | wall
+ 12 |      18 |   0 | wall
+ 13 |      19 |   0 | wall
+ 14 |      19 |   0 | wall
+ 15 |      21 |   0 | wall
+ 16 |      22 |   0 | wall
+ 17 |      26 |   0 | wall
+ 18 |      35 |   0 | body
+ 19 |      68 |   0 | wall
+Best snake fitness: 68
+
+time_died: 1.060795783996582---------- GEN 13 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       3 |   0 | body
+  5 |       3 |   0 | body
+  6 |       4 |   0 | body
+  7 |       4 |   0 | body
+  8 |       5 |   0 | body
+  9 |      11 |   0 | wall
+ 10 |      15 |   0 | wall
+ 11 |      16 |   0 | wall
+ 12 |      17 |   0 | wall
+ 13 |      18 |   0 | body
+ 14 |      18 |   0 | wall
+ 15 |      19 |   0 | body
+ 16 |      21 |   0 | wall
+ 17 |      22 |   0 | wall
+ 18 |      26 |   0 | wall
+ 19 |      40 |   0 | wall
+Best snake fitness: 40
+
+time_died: 0.8599977493286133---------- GEN 14 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       4 |   0 | body
+  3 |       5 |   0 | body
+  4 |      10 |   0 | wall
+  5 |      11 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      16 |   0 | wall
+  8 |      16 |   0 | wall
+  9 |      17 |   0 | wall
+ 10 |      18 |   0 | wall
+ 11 |      19 |   0 | wall
+ 12 |      20 |   0 | wall
+ 13 |      21 |   0 | wall
+ 14 |      22 |   0 | wall
+ 15 |      26 |   0 | wall
+ 16 |      29 |   0 | body
+ 17 |      35 |   0 | body
+ 18 |      37 |   0 | wall
+ 19 |      70 |   0 | wall
+Best snake fitness: 70
+
+time_died: 1.3002197742462158---------- GEN 15 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       3 |   0 | body
+  5 |       4 |   0 | body
+  6 |       9 |   0 | body
+  7 |      16 |   0 | wall
+  8 |      17 |   0 | wall
+  9 |      18 |   0 | body
+ 10 |      19 |   0 | body
+ 11 |      20 |   0 | wall
+ 12 |      21 |   0 | wall
+ 13 |      22 |   0 | wall
+ 14 |      23 |   0 | body
+ 15 |      26 |   0 | wall
+ 16 |      27 |   0 | wall
+ 17 |      29 |   0 | body
+ 18 |      38 |   0 | body
+ 19 |      56 |   0 | timeout
+Best snake fitness: 56
+
+time_died: 1.1854240894317627---------- GEN 16 ----------
+  0 |       3 |   0 | body
+  1 |      10 |   0 | body
+  2 |      11 |   0 | wall
+  3 |      11 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      28 |   1 | body
+  8 |      21 |   0 | wall
+  9 |      21 |   0 | wall
+ 10 |      22 |   0 | body
+ 11 |      22 |   0 | body
+ 12 |      23 |   0 | body
+ 13 |      25 |   0 | wall
+ 14 |      26 |   0 | wall
+ 15 |      27 |   0 | wall
+ 16 |      29 |   0 | body
+ 17 |      33 |   0 | body
+ 18 |      48 |   0 | wall
+ 19 |      51 |   0 | wall
+Best snake fitness: 51
+
+time_died: 1.461998462677002---------- GEN 17 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       6 |   0 | body
+  4 |      10 |   0 | wall
+  5 |      11 |   0 | wall
+  6 |      11 |   0 | wall
+  7 |      13 |   0 | body
+  8 |      13 |   0 | wall
+  9 |      23 |   1 | body
+ 10 |      16 |   0 | body
+ 11 |      16 |   0 | wall
+ 12 |      17 |   0 | wall
+ 13 |      18 |   0 | wall
+ 14 |      22 |   0 | wall
+ 15 |      26 |   0 | wall
+ 16 |      27 |   0 | wall
+ 17 |      28 |   0 | wall
+ 18 |      34 |   0 | body
+ 19 |      52 |   0 | wall
+Best snake fitness: 52
+
+time_died: 1.118772268295288---------- GEN 18 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       4 |   0 | body
+  5 |       4 |   0 | body
+  6 |      11 |   0 | wall
+  7 |      13 |   0 | body
+  8 |      16 |   0 | wall
+  9 |      18 |   0 | body
+ 10 |      18 |   0 | wall
+ 11 |      18 |   0 | wall
+ 12 |      19 |   0 | wall
+ 13 |      20 |   0 | body
+ 14 |      23 |   0 | body
+ 15 |      26 |   0 | wall
+ 16 |      27 |   0 | wall
+ 17 |      32 |   0 | wall
+ 18 |      48 |   0 | wall
+ 19 |      52 |   0 | wall
+Best snake fitness: 52
+
+time_died: 1.2210075855255127---------- GEN 19 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       3 |   0 | body
+  5 |       4 |   0 | body
+  6 |       4 |   0 | body
+  7 |      16 |   0 | wall
+  8 |      16 |   0 | wall
+  9 |      17 |   0 | wall
+ 10 |      28 |   1 | body
+ 11 |      28 |   1 | wall
+ 12 |      21 |   0 | body
+ 13 |      25 |   0 | wall
+ 14 |      26 |   0 | wall
+ 15 |      27 |   0 | wall
+ 16 |      49 |   0 | wall
+ 17 |      50 |   0 | wall
+ 18 |      51 |   0 | wall
+ 19 |      62 |   1 | wall
+Best snake fitness: 62
+
+time_died: 1.3300261497497559---------- GEN 20 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       4 |   0 | body
+  3 |       9 |   0 | body
+  4 |      10 |   0 | wall
+  5 |      12 |   0 | wall
+  6 |      12 |   0 | wall
+  7 |      16 |   0 | wall
+  8 |      16 |   0 | wall
+  9 |      16 |   0 | wall
+ 10 |      17 |   0 | wall
+ 11 |      17 |   0 | wall
+ 12 |      18 |   0 | body
+ 13 |      18 |   0 | body
+ 14 |      18 |   0 | wall
+ 15 |      26 |   0 | wall
+ 16 |      27 |   0 | wall
+ 17 |      31 |   0 | body
+ 18 |      48 |   0 | wall
+ 19 |      67 |   1 | wall
+Best snake fitness: 67
+
+time_died: 1.3309993743896484---------- GEN 21 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       4 |   0 | body
+  5 |      10 |   0 | wall
+  6 |      11 |   0 | wall
+  7 |      15 |   0 | body
+  8 |      16 |   0 | wall
+  9 |      16 |   0 | wall
+ 10 |      18 |   0 | body
+ 11 |      19 |   0 | body
+ 12 |      21 |   0 | body
+ 13 |      24 |   0 | wall
+ 14 |      25 |   0 | wall
+ 15 |      26 |   0 | wall
+ 16 |      26 |   0 | wall
+ 17 |      27 |   0 | wall
+ 18 |      48 |   0 | wall
+ 19 |      55 |   0 | wall
+Best snake fitness: 55
+
+time_died: 1.203934907913208---------- GEN 22 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      18 |   0 | wall
+  8 |      18 |   0 | wall
+  9 |      20 |   0 | body
+ 10 |      21 |   0 | wall
+ 11 |      25 |   0 | wall
+ 12 |      26 |   0 | wall
+ 13 |      26 |   0 | wall
+ 14 |      26 |   0 | wall
+ 15 |      27 |   0 | wall
+ 16 |      27 |   0 | wall
+ 17 |      28 |   0 | wall
+ 18 |      48 |   0 | wall
+ 19 |     145 |   1 | timeout
+Best snake fitness: 145
+
+time_died: 1.9280245304107666---------- GEN 23 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |      11 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      18 |   0 | body
+  8 |      18 |   0 | wall
+  9 |      18 |   0 | body
+ 10 |      19 |   0 | wall
+ 11 |      21 |   0 | body
+ 12 |      26 |   0 | wall
+ 13 |      26 |   0 | wall
+ 14 |      27 |   0 | wall
+ 15 |      28 |   0 | wall
+ 16 |      29 |   0 | body
+ 17 |      30 |   0 | body
+ 18 |      58 |   1 | body
+ 19 |      57 |   0 | wall
+Best snake fitness: 58
+
+time_died: 1.4465444087982178---------- GEN 24 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       4 |   0 | body
+  5 |       4 |   0 | body
+  6 |      16 |   0 | wall
+  7 |      16 |   0 | wall
+  8 |      17 |   0 | wall
+  9 |      18 |   0 | body
+ 10 |      18 |   0 | wall
+ 11 |      18 |   0 | body
+ 12 |      19 |   0 | body
+ 13 |      26 |   0 | wall
+ 14 |      26 |   0 | wall
+ 15 |      27 |   0 | wall
+ 16 |      27 |   0 | wall
+ 17 |      28 |   0 | wall
+ 18 |      59 |   0 | body
+ 19 |      74 |   0 | timeout
+Best snake fitness: 74
+
+time_died: 1.3959987163543701---------- GEN 25 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |      12 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      18 |   0 | body
+  5 |      18 |   0 | wall
+  6 |      21 |   0 | wall
+  7 |      25 |   0 | wall
+  8 |      25 |   0 | wall
+  9 |      26 |   0 | wall
+ 10 |      26 |   0 | wall
+ 11 |      26 |   0 | wall
+ 12 |      26 |   0 | wall
+ 13 |      27 |   0 | wall
+ 14 |      28 |   0 | wall
+ 15 |      42 |   0 | body
+ 16 |      43 |   0 | body
+ 17 |      56 |   0 | wall
+ 18 |      59 |   0 | body
+ 19 |      74 |   0 | timeout
+Best snake fitness: 74
+
+time_died: 1.8340003490447998---------- GEN 26 ----------
+  0 |       6 |   0 | body
+  1 |       8 |   0 | body
+  2 |      13 |   0 | body
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      17 |   0 | wall
+  8 |      26 |   0 | wall
+  9 |      26 |   0 | wall
+ 10 |      27 |   0 | wall
+ 11 |      29 |   0 | body
+ 12 |      29 |   0 | body
+ 13 |      31 |   0 | body
+ 14 |      36 |   0 | body
+ 15 |      56 |   0 | wall
+ 16 |      59 |   0 | body
+ 17 |      74 |   0 | timeout
+ 18 |      84 |   1 | body
+ 19 |      78 |   0 | body
+Best snake fitness: 84
+
+time_died: 2.0871381759643555---------- GEN 27 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       5 |   0 | body
+  3 |      10 |   0 | wall
+  4 |      11 |   0 | wall
+  5 |      11 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      18 |   0 | body
+  8 |      18 |   0 | wall
+  9 |      20 |   0 | body
+ 10 |      21 |   0 | body
+ 11 |      22 |   0 | body
+ 12 |      26 |   0 | wall
+ 13 |      29 |   0 | body
+ 14 |      40 |   1 | wall
+ 15 |      42 |   1 | body
+ 16 |      42 |   0 | body
+ 17 |      42 |   0 | body
+ 18 |      70 |   0 | body
+ 19 |     114 |   2 | wall
+Best snake fitness: 114
+
+time_died: 4.12471604347229---------- GEN 28 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       4 |   0 | body
+  3 |      10 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      18 |   0 | body
+  8 |      18 |   0 | body
+  9 |      28 |   0 | body
+ 10 |      33 |   0 | body
+ 11 |      33 |   0 | body
+ 12 |      52 |   0 | wall
+ 13 |      56 |   0 | wall
+ 14 |      56 |   0 | wall
+ 15 |      57 |   0 | wall
+ 16 |      59 |   0 | body
+ 17 |      70 |   0 | body
+ 18 |     145 |   1 | timeout
+ 19 |     145 |   1 | timeout
+Best snake fitness: 145
+
+time_died: 6.372580528259277---------- GEN 29 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       4 |   0 | body
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      25 |   0 | wall
+  8 |      26 |   0 | wall
+  9 |      31 |   0 | body
+ 10 |      43 |   0 | body
+ 11 |      48 |   0 | wall
+ 12 |      56 |   0 | wall
+ 13 |      56 |   0 | wall
+ 14 |      57 |   0 | wall
+ 15 |      59 |   0 | body
+ 16 |      60 |   0 | wall
+ 17 |      74 |   0 | timeout
+ 18 |      74 |   0 | timeout
+ 19 |     148 |   1 | timeout
+Best snake fitness: 148
+
+time_died: 2.6109745502471924---------- GEN 30 ----------
+  0 |      16 |   0 | wall
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      18 |   0 | body
+  7 |      19 |   0 | body
+  8 |      52 |   0 | body
+  9 |      56 |   0 | wall
+ 10 |      56 |   0 | wall
+ 11 |      57 |   0 | wall
+ 12 |      59 |   0 | body
+ 13 |      60 |   0 | wall
+ 14 |      74 |   0 | timeout
+ 15 |      74 |   0 | timeout
+ 16 |      74 |   0 | timeout
+ 17 |      93 |   0 | body
+ 18 |     126 |   0 | body
+ 19 |     231 |   2 | timeout
+Best snake fitness: 231
+
+time_died: 3.6857430934906006---------- GEN 31 ----------
+  0 |       3 |   0 | body
+  1 |       4 |   0 | body
+  2 |      11 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      17 |   0 | wall
+  5 |      18 |   0 | body
+  6 |      19 |   0 | body
+  7 |      19 |   0 | wall
+  8 |      30 |   1 | wall
+  9 |      26 |   0 | body
+ 10 |      26 |   0 | wall
+ 11 |      29 |   0 | body
+ 12 |      34 |   0 | body
+ 13 |      36 |   0 | wall
+ 14 |      42 |   0 | body
+ 15 |      48 |   0 | body
+ 16 |      52 |   0 | body
+ 17 |      79 |   1 | body
+ 18 |      74 |   0 | timeout
+ 19 |      86 |   0 | timeout
+Best snake fitness: 86
+
+time_died: 2.1588947772979736---------- GEN 32 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       6 |   0 | body
+  3 |       6 |   0 | body
+  4 |      10 |   0 | wall
+  5 |      11 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      19 |   0 | body
+  8 |      26 |   0 | wall
+  9 |      34 |   0 | body
+ 10 |      35 |   0 | body
+ 11 |      56 |   0 | wall
+ 12 |      74 |   0 | timeout
+ 13 |      74 |   0 | timeout
+ 14 |      74 |   0 | timeout
+ 15 |      74 |   0 | timeout
+ 16 |      99 |   1 | body
+ 17 |      91 |   0 | body
+ 18 |     115 |   0 | timeout
+ 19 |     236 |   2 | timeout
+Best snake fitness: 236
+
+time_died: 3.439965009689331---------- GEN 33 ----------
+  0 |      10 |   0 | body
+  1 |      12 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      18 |   0 | wall
+  5 |      19 |   0 | wall
+  6 |      41 |   1 | body
+  7 |      57 |   0 | body
+  8 |      74 |   0 | timeout
+  9 |      74 |   0 | timeout
+ 10 |      74 |   0 | timeout
+ 11 |      74 |   0 | timeout
+ 12 |      74 |   0 | timeout
+ 13 |      88 |   1 | body
+ 14 |      92 |   0 | body
+ 15 |     124 |   1 | wall
+ 16 |     117 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     131 |   0 | timeout
+ 19 |     152 |   1 | timeout
+Best snake fitness: 152
+
+time_died: 4.195849180221558---------- GEN 34 ----------
+  0 |      11 |   0 | wall
+  1 |      12 |   0 | wall
+  2 |      15 |   0 | body
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      26 |   0 | wall
+  6 |      27 |   0 | wall
+  7 |      34 |   0 | body
+  8 |      55 |   1 | body
+  9 |      67 |   1 | wall
+ 10 |      71 |   1 | body
+ 11 |      74 |   0 | timeout
+ 12 |      94 |   0 | body
+ 13 |     109 |   1 | timeout
+ 14 |     120 |   0 | timeout
+ 15 |     121 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     128 |   0 | body
+ 18 |     131 |   0 | timeout
+ 19 |     165 |   1 | timeout
+Best snake fitness: 165
+
+time_died: 4.3255836963653564---------- GEN 35 ----------
+  0 |       5 |   0 | body
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      26 |   0 | wall
+  4 |      41 |   0 | wall
+  5 |      56 |   0 | wall
+  6 |      56 |   0 | wall
+  7 |      90 |   1 | wall
+  8 |      83 |   0 | body
+  9 |      89 |   0 | body
+ 10 |     111 |   0 | timeout
+ 11 |     127 |   1 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     137 |   1 | timeout
+ 16 |     138 |   1 | body
+ 17 |     141 |   1 | timeout
+ 18 |     145 |   1 | timeout
+ 19 |    1972 |  12 | body
+Best snake fitness: 1972
+
+time_died: 12.6295166015625---------- GEN 36 ----------
+  0 |      16 |   0 | wall
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      17 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      32 |   1 | body
+  7 |      39 |   0 | wall
+  8 |      42 |   0 | body
+  9 |      53 |   1 | wall
+ 10 |      58 |   1 | wall
+ 11 |      59 |   1 | wall
+ 12 |     114 |   1 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     138 |   1 | body
+ 16 |     141 |   1 | timeout
+ 17 |     145 |   1 | timeout
+ 18 |     150 |   1 | timeout
+ 19 |     798 |   3 | body
+Best snake fitness: 798
+
+time_died: 7.188464403152466---------- GEN 37 ----------
+  0 |      11 |   0 | wall
+  1 |      11 |   0 | wall
+  2 |      11 |   0 | wall
+  3 |      11 |   0 | wall
+  4 |      12 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      21 |   0 | body
+  8 |      25 |   0 | wall
+  9 |      42 |   0 | body
+ 10 |      48 |   0 | wall
+ 11 |      56 |   0 | wall
+ 12 |      57 |   0 | body
+ 13 |      74 |   0 | timeout
+ 14 |      74 |   0 | timeout
+ 15 |      74 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     131 |   0 | timeout
+ 18 |     189 |   3 | timeout
+ 19 |     277 |   5 | body
+Best snake fitness: 277
+
+time_died: 3.865464210510254---------- GEN 38 ----------
+  0 |       3 |   0 | body
+  1 |      10 |   0 | wall
+  2 |      11 |   0 | wall
+  3 |      12 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      43 |   0 | body
+  8 |      50 |   0 | body
+  9 |      58 |   0 | body
+ 10 |      62 |   0 | body
+ 11 |      67 |   0 | timeout
+ 12 |      74 |   0 | timeout
+ 13 |      74 |   0 | timeout
+ 14 |     111 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     157 |   1 | timeout
+ 17 |     170 |   0 | body
+ 18 |     191 |   1 | timeout
+ 19 |     227 |   3 | body
+Best snake fitness: 227
+
+time_died: 4.761660814285278---------- GEN 39 ----------
+  0 |      12 |   0 | body
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      17 |   0 | wall
+  4 |      17 |   0 | wall
+  5 |      19 |   0 | wall
+  6 |      25 |   0 | wall
+  7 |      59 |   1 | wall
+  8 |      59 |   1 | wall
+  9 |      58 |   0 | body
+ 10 |      79 |   1 | body
+ 11 |      74 |   0 | timeout
+ 12 |      74 |   0 | timeout
+ 13 |      74 |   0 | timeout
+ 14 |      97 |   0 | timeout
+ 15 |     113 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     131 |   0 | timeout
+ 18 |     222 |   3 | body
+ 19 |     215 |   2 | timeout
+Best snake fitness: 222
+
+time_died: 4.534557819366455---------- GEN 40 ----------
+  0 |      10 |   0 | wall
+  1 |      11 |   0 | wall
+  2 |      11 |   0 | wall
+  3 |      11 |   0 | wall
+  4 |      12 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      19 |   0 | body
+  8 |      20 |   0 | body
+  9 |      25 |   0 | wall
+ 10 |      26 |   0 | wall
+ 11 |      35 |   0 | body
+ 12 |      41 |   0 | body
+ 13 |      70 |   2 | body
+ 14 |      75 |   2 | body
+ 15 |      74 |   0 | timeout
+ 16 |      79 |   0 | timeout
+ 17 |     112 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     135 |   0 | timeout
+Best snake fitness: 135
+
+time_died: 2.9518139362335205---------- GEN 41 ----------
+  0 |      12 |   0 | wall
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      17 |   0 | wall
+  4 |      18 |   0 | wall
+  5 |      21 |   0 | wall
+  6 |      27 |   0 | wall
+  7 |      28 |   0 | wall
+  8 |      33 |   0 | body
+  9 |      39 |   0 | wall
+ 10 |      41 |   0 | body
+ 11 |      64 |   0 | body
+ 12 |      74 |   0 | timeout
+ 13 |      85 |   0 | timeout
+ 14 |      97 |   0 | timeout
+ 15 |     100 |   0 | timeout
+ 16 |     129 |   2 | body
+ 17 |     125 |   0 | timeout
+ 18 |     135 |   0 | timeout
+ 19 |     239 |   5 | wall
+Best snake fitness: 239
+
+time_died: 4.037384033203125---------- GEN 42 ----------
+  0 |       6 |   0 | body
+  1 |      11 |   0 | wall
+  2 |      11 |   0 | wall
+  3 |      11 |   0 | wall
+  4 |      12 |   0 | wall
+  5 |      18 |   0 | body
+  6 |      18 |   0 | body
+  7 |      25 |   0 | wall
+  8 |      34 |   0 | body
+  9 |      36 |   0 | body
+ 10 |      67 |   0 | timeout
+ 11 |      74 |   0 | timeout
+ 12 |      90 |   0 | body
+ 13 |      96 |   0 | timeout
+ 14 |      97 |   0 | timeout
+ 15 |     117 |   1 | wall
+ 16 |     125 |   0 | timeout
+ 17 |     135 |   0 | timeout
+ 18 |     139 |   0 | timeout
+ 19 |     387 |   8 | body
+Best snake fitness: 387
+
+time_died: 4.6756792068481445---------- GEN 43 ----------
+  0 |       3 |   0 | body
+  1 |      11 |   0 | wall
+  2 |      12 |   0 | body
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      19 |   0 | wall
+  8 |      20 |   0 | wall
+  9 |      34 |   0 | wall
+ 10 |      93 |   1 | body
+ 11 |      90 |   0 | body
+ 12 |      91 |   0 | body
+ 13 |      97 |   0 | timeout
+ 14 |      97 |   0 | timeout
+ 15 |     120 |   0 | timeout
+ 16 |     134 |   1 | wall
+ 17 |     125 |   0 | timeout
+ 18 |     135 |   0 | timeout
+ 19 |     165 |   2 | body
+Best snake fitness: 165
+
+time_died: 4.079131603240967---------- GEN 44 ----------
+  0 |       3 |   0 | body
+  1 |      10 |   0 | wall
+  2 |      11 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      18 |   0 | body
+  8 |      21 |   0 | body
+  9 |      22 |   0 | wall
+ 10 |      25 |   0 | wall
+ 11 |      34 |   0 | body
+ 12 |      72 |   2 | body
+ 13 |      78 |   0 | timeout
+ 14 |      90 |   0 | body
+ 15 |      94 |   0 | timeout
+ 16 |      97 |   0 | timeout
+ 17 |     121 |   1 | wall
+ 18 |     125 |   0 | timeout
+ 19 |     189 |   1 | timeout
+Best snake fitness: 189
+
+time_died: 3.2950358390808105---------- GEN 45 ----------
+  0 |       3 |   0 | body
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      17 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      19 |   0 | body
+  7 |      28 |   0 | body
+  8 |      53 |   1 | body
+  9 |      74 |   0 | timeout
+ 10 |      83 |   0 | timeout
+ 11 |      90 |   0 | body
+ 12 |      97 |   0 | timeout
+ 13 |     108 |   1 | body
+ 14 |     104 |   0 | timeout
+ 15 |     126 |   1 | wall
+ 16 |     117 |   0 | wall
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     184 |   1 | timeout
+Best snake fitness: 184
+
+time_died: 4.400993824005127---------- GEN 46 ----------
+  0 |       3 |   0 | body
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      17 |   0 | wall
+  8 |      27 |   0 | wall
+  9 |      28 |   0 | wall
+ 10 |      58 |   0 | body
+ 11 |      60 |   0 | wall
+ 12 |      97 |   0 | timeout
+ 13 |     102 |   0 | timeout
+ 14 |     125 |   1 | wall
+ 15 |     116 |   0 | wall
+ 16 |     125 |   0 | timeout
+ 17 |     145 |   2 | body
+ 18 |     125 |   0 | timeout
+ 19 |     135 |   0 | timeout
+Best snake fitness: 145
+
+time_died: 3.8999078273773193---------- GEN 47 ----------
+  0 |      16 |   0 | wall
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      17 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      19 |   0 | wall
+  7 |      23 |   0 | wall
+  8 |      39 |   1 | body
+  9 |      34 |   0 | body
+ 10 |      74 |   0 | timeout
+ 11 |      88 |   0 | wall
+ 12 |      90 |   0 | body
+ 13 |      94 |   0 | body
+ 14 |      97 |   0 | timeout
+ 15 |     131 |   1 | wall
+ 16 |     122 |   0 | wall
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     131 |   0 | timeout
+Best snake fitness: 131
+
+time_died: 3.9917125701904297---------- GEN 48 ----------
+  0 |       6 |   0 | body
+  1 |      10 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      17 |   0 | wall
+  8 |      18 |   0 | body
+  9 |      19 |   0 | body
+ 10 |      25 |   0 | wall
+ 11 |     100 |   1 | body
+ 12 |     104 |   1 | body
+ 13 |     104 |   1 | body
+ 14 |      95 |   0 | body
+ 15 |     123 |   1 | body
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     141 |   1 | timeout
+Best snake fitness: 141
+
+time_died: 3.716984510421753---------- GEN 49 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      27 |   0 | body
+  8 |      50 |   0 | wall
+  9 |      74 |   0 | timeout
+ 10 |      90 |   0 | body
+ 11 |      94 |   0 | body
+ 12 |      97 |   0 | timeout
+ 13 |     111 |   1 | wall
+ 14 |     102 |   0 | wall
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     133 |   0 | timeout
+ 19 |     134 |   0 | timeout
+Best snake fitness: 134
+
+time_died: 4.3161985874176025---------- GEN 50 ----------
+  0 |      16 |   0 | wall
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      17 |   0 | wall
+  5 |      18 |   0 | body
+  6 |      77 |   0 | wall
+  7 |      94 |   0 | body
+  8 |      97 |   0 | timeout
+  9 |      97 |   0 | timeout
+ 10 |     107 |   0 | timeout
+ 11 |     119 |   1 | wall
+ 12 |     119 |   1 | wall
+ 13 |     110 |   0 | wall
+ 14 |     119 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     125 |   0 | timeout
+Best snake fitness: 125
+
+time_died: 5.118512868881226---------- GEN 51 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      18 |   0 | wall
+  8 |      56 |   0 | wall
+  9 |      93 |   0 | wall
+ 10 |      97 |   0 | timeout
+ 11 |     118 |   1 | wall
+ 12 |     119 |   1 | wall
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     140 |   0 | timeout
+Best snake fitness: 140
+
+time_died: 4.754458427429199---------- GEN 52 ----------
+  0 |       8 |   0 | body
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      17 |   0 | wall
+  8 |      38 |   0 | wall
+  9 |      64 |   0 | body
+ 10 |     102 |   0 | timeout
+ 11 |     125 |   1 | wall
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     159 |   0 | timeout
+Best snake fitness: 159
+
+time_died: 4.674288511276245---------- GEN 53 ----------
+  0 |      10 |   0 | wall
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      25 |   0 | body
+  8 |      25 |   0 | wall
+  9 |      27 |   0 | wall
+ 10 |      54 |   0 | wall
+ 11 |      74 |   0 | timeout
+ 12 |     133 |   1 | wall
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     125 |   0 | timeout
+Best snake fitness: 133
+
+time_died: 4.0531532764434814---------- GEN 54 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      25 |   0 | wall
+  7 |      25 |   0 | wall
+  8 |      26 |   0 | wall
+  9 |      68 |   0 | body
+ 10 |     106 |   1 | body
+ 11 |      97 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     125 |   0 | timeout
+Best snake fitness: 125
+
+time_died: 4.376389026641846---------- GEN 55 ----------
+  0 |      16 |   0 | wall
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      17 |   0 | wall
+  8 |      18 |   0 | wall
+  9 |      25 |   0 | wall
+ 10 |      26 |   0 | wall
+ 11 |      74 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     125 |   0 | timeout
+Best snake fitness: 125
+
+time_died: 4.045170068740845---------- GEN 56 ----------
+  0 |       3 |   0 | body
+  1 |      12 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      18 |   0 | body
+  8 |      22 |   0 | body
+  9 |      48 |   0 | wall
+ 10 |     125 |   0 | timeout
+ 11 |     125 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     140 |   0 | timeout
+Best snake fitness: 140
+
+time_died: 6.867117166519165---------- GEN 57 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      18 |   0 | wall
+  8 |      19 |   0 | body
+  9 |      19 |   0 | body
+ 10 |      20 |   0 | body
+ 11 |      48 |   0 | wall
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     140 |   0 | timeout
+Best snake fitness: 140
+
+time_died: 10.578948974609375---------- GEN 58 ----------
+  0 |       3 |   0 | body
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      17 |   0 | wall
+  8 |      18 |   0 | wall
+  9 |      27 |   0 | body
+ 10 |     125 |   0 | timeout
+ 11 |     125 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     140 |   0 | timeout
+Best snake fitness: 140
+
+time_died: 4.476930856704712---------- GEN 59 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       4 |   0 | body
+  4 |      10 |   0 | body
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      16 |   0 | wall
+  8 |      17 |   0 | wall
+  9 |      19 |   0 | body
+ 10 |      26 |   0 | wall
+ 11 |      97 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     140 |   0 | timeout
+Best snake fitness: 140
+
+time_died: 3.893951654434204---------- GEN 60 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       3 |   0 | body
+  4 |       4 |   0 | body
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      17 |   0 | wall
+  8 |      18 |   0 | wall
+  9 |      25 |   0 | wall
+ 10 |      28 |   0 | wall
+ 11 |      56 |   0 | wall
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     140 |   0 | timeout
+Best snake fitness: 140
+
+time_died: 3.8830456733703613---------- GEN 61 ----------
+  0 |       6 |   0 | body
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      19 |   0 | wall
+  8 |      25 |   0 | wall
+  9 |      26 |   0 | wall
+ 10 |      74 |   0 | timeout
+ 11 |      74 |   0 | timeout
+ 12 |      90 |   0 | body
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     125 |   0 | timeout
+Best snake fitness: 125
+
+time_died: 4.01008415222168---------- GEN 62 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |      10 |   0 | wall
+  3 |      12 |   0 | body
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      17 |   0 | wall
+  8 |      25 |   0 | wall
+  9 |      74 |   0 | timeout
+ 10 |      90 |   0 | body
+ 11 |     125 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     131 |   0 | timeout
+Best snake fitness: 131
+
+time_died: 4.427016019821167---------- GEN 63 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       4 |   0 | body
+  4 |       4 |   0 | body
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      17 |   0 | wall
+  8 |      18 |   0 | body
+  9 |      27 |   0 | body
+ 10 |      97 |   0 | timeout
+ 11 |     125 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     131 |   0 | timeout
+Best snake fitness: 131
+
+time_died: 4.429732322692871---------- GEN 64 ----------
+  0 |       3 |   0 | body
+  1 |      12 |   0 | body
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      19 |   0 | body
+  7 |      47 |   0 | body
+  8 |      56 |   0 | wall
+  9 |      56 |   0 | wall
+ 10 |      74 |   0 | body
+ 11 |     145 |   1 | timeout
+ 12 |     197 |   1 | timeout
+ 13 |     197 |   1 | timeout
+ 14 |     197 |   1 | timeout
+ 15 |     197 |   1 | timeout
+ 16 |     197 |   1 | timeout
+ 17 |     197 |   1 | timeout
+ 18 |     197 |   1 | timeout
+ 19 |     197 |   1 | timeout
+Best snake fitness: 197
+
+time_died: 6.262800693511963---------- GEN 65 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      17 |   0 | wall
+  8 |      18 |   0 | wall
+  9 |      60 |   1 | body
+ 10 |      58 |   0 | wall
+ 11 |     119 |   1 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |     125 |   0 | timeout
+Best snake fitness: 125
+
+time_died: 4.241367816925049---------- GEN 66 ----------
+  0 |      16 |   0 | wall
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      17 |   0 | wall
+  4 |      27 |   0 | body
+  5 |      56 |   0 | wall
+  6 |      99 |   0 | timeout
+  7 |     125 |   0 | timeout
+  8 |     125 |   0 | timeout
+  9 |     125 |   0 | timeout
+ 10 |     125 |   0 | timeout
+ 11 |     125 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |    2226 |  24 | body
+Best snake fitness: 2226
+
+time_died: 13.72695517539978---------- GEN 67 ----------
+  0 |       3 |   0 | body
+  1 |      16 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      18 |   0 | body
+  8 |      35 |   1 | wall
+  9 |      25 |   0 | wall
+ 10 |      27 |   0 | body
+ 11 |      56 |   0 | wall
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |    2007 |  23 | body
+Best snake fitness: 2007
+
+time_died: 11.202038764953613---------- GEN 68 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       4 |   0 | body
+  3 |       8 |   0 | body
+  4 |      14 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      25 |   0 | wall
+  8 |      27 |   0 | wall
+  9 |      51 |   0 | wall
+ 10 |      56 |   0 | wall
+ 11 |     125 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |    2079 |  23 | body
+Best snake fitness: 2079
+
+time_died: 11.946385383605957---------- GEN 69 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       3 |   0 | body
+  3 |       4 |   0 | body
+  4 |      10 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      16 |   0 | wall
+  7 |      16 |   0 | wall
+  8 |      17 |   0 | wall
+  9 |      17 |   0 | wall
+ 10 |      18 |   0 | wall
+ 11 |     125 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |    2540 |  27 | body
+Best snake fitness: 2540
+
+time_died: 13.221811771392822---------- GEN 70 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       4 |   0 | body
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      21 |   0 | wall
+  8 |      56 |   0 | wall
+  9 |      74 |   0 | timeout
+ 10 |      90 |   0 | body
+ 11 |     119 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |    2549 |  26 | body
+Best snake fitness: 2549
+
+time_died: 13.897821187973022---------- GEN 71 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      22 |   0 | wall
+  8 |      25 |   0 | wall
+  9 |      25 |   0 | wall
+ 10 |      26 |   0 | wall
+ 11 |      28 |   0 | body
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |    2549 |  28 | body
+Best snake fitness: 2549
+
+time_died: 12.935302019119263---------- GEN 72 ----------
+  0 |       3 |   0 | body
+  1 |      14 |   0 | body
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      75 |   0 | wall
+  8 |     125 |   0 | timeout
+  9 |     125 |   0 | timeout
+ 10 |     125 |   0 | timeout
+ 11 |     125 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |    1835 |  21 | body
+Best snake fitness: 1835
+
+time_died: 12.231160640716553---------- GEN 73 ----------
+  0 |       3 |   0 | body
+  1 |       3 |   0 | body
+  2 |       6 |   0 | body
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      16 |   0 | wall
+  6 |      17 |   0 | wall
+  7 |      17 |   0 | wall
+  8 |      18 |   0 | wall
+  9 |      25 |   0 | wall
+ 10 |      27 |   0 | body
+ 11 |     119 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |    1725 |  22 | body
+Best snake fitness: 1725
+
+time_died: 9.937503099441528---------- GEN 74 ----------
+  0 |       3 |   0 | body
+  1 |      10 |   0 | wall
+  2 |      16 |   0 | wall
+  3 |      16 |   0 | wall
+  4 |      16 |   0 | wall
+  5 |      17 |   0 | wall
+  6 |      18 |   0 | body
+  7 |      25 |   0 | wall
+  8 |      56 |   0 | wall
+  9 |      56 |   0 | wall
+ 10 |     125 |   0 | timeout
+ 11 |     125 |   0 | timeout
+ 12 |     125 |   0 | timeout
+ 13 |     125 |   0 | timeout
+ 14 |     125 |   0 | timeout
+ 15 |     125 |   0 | timeout
+ 16 |     125 |   0 | timeout
+ 17 |     125 |   0 | timeout
+ 18 |     125 |   0 | timeout
+ 19 |    2179 |  25 | body
+Best snake fitness: 2179
+
+time_died: 12.154593467712402
